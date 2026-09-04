@@ -1,0 +1,12 @@
+gensim
+imbalanced-learn
+matplotlib
+nltk
+numpy
+openpyxl
+pandas
+pyLDAvis
+scikit-learn
+seaborn
+spacy
+

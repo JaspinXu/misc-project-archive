@@ -1,0 +1,32 @@
+# Operating systems and editors
+desktop.ini
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# LaTeX build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+_minted-*/
+
+# MATLAB autosave and generated cache
+*.asv
+slprj/
+*.slxc
+
+# Local outputs
+projects/amazon-review-analysis/outputs/*
+!projects/amazon-review-analysis/outputs/.gitkeep
+
